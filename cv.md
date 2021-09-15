@@ -11,5 +11,12 @@ I want to be a professional in programming.
 * Git
 * JavaScript (Vue.js)
 
+## Code Example
+```js
+function accum(s) {
+  return s.split('').map((c, i) => (c.toUpperCase() + c.toLowerCase().repeat(i))).join('-');
+}
+```
+
 ## Languages
 English: A2
