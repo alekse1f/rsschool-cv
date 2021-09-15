@@ -3,7 +3,7 @@
 * Email: n8x8@yandex.ru
 
 ## Summary 
-I want to be a professional in programming.
+I want to be a professional in programming!
 
 ## Skills
 * HTML5
